@@ -1,2 +1,1 @@
-# MAETS
-MAETS
+O site será um hub para compra e venda de jogos digitais com enfoque em nacionalizar o valor dos jogos, com botões que levam para categorias diferentes separados por gêneros. Essas categorias terão os jogos que correspondem a elas, junto com um filtro de faixa de preço/promoção.
