@@ -1,0 +1,48 @@
+body{color: white;
+    background-color: #090845;
+    font-family: 'Orbitron', sans-serif;
+}
+
+ul{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-segments: center;
+    padding: 16px;
+    font-size: 50px;    
+}
+li{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+}
+.center{
+    text-align: center;
+}
+header{
+    font-size: 55px
+   
+
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px;
+    font-size: 20px;
+    text-align: center; 
+}
+
+.caixa-texto {
+    
+    color: #fff;                  /* texto branco */
+    border: 1px solid #00ffff;    /* borda azul neon */
+    padding: 20px;                /* espaço interno */
+    margin: 20px 0;               /* espaço externo (cima/baixo) */
+    border-radius: 10px;          /* cantos arredondados (opcional) */
+  }
+  
