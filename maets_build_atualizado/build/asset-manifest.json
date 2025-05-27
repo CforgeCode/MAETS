@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89264d99.css",
+    "main.js": "/static/js/main.97163aa2.js",
+    "static/js/453.b17cc2ec.chunk.js": "/static/js/453.b17cc2ec.chunk.js",
+    "static/media/maets-logo.png": "/static/media/maets-logo.f126302d3b03d00fc83a.png",
+    "index.html": "/index.html",
+    "main.89264d99.css.map": "/static/css/main.89264d99.css.map",
+    "main.97163aa2.js.map": "/static/js/main.97163aa2.js.map",
+    "453.b17cc2ec.chunk.js.map": "/static/js/453.b17cc2ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89264d99.css",
+    "static/js/main.97163aa2.js"
+  ]
+}
