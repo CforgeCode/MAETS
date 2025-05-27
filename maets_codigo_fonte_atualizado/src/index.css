@@ -146,7 +146,9 @@ button:hover {
   grid-template-columns: repeat(4, 1fr);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 100%;
+  height: auto;
+  display: block;) {
   .grid-cols-4 {
     grid-template-columns: repeat(2, 1fr);
   }
